@@ -1,0 +1,5 @@
+Atrybuty kluczowe: A, B, C, D, E
+Atrybuty niekluczowe: (brak)
+F_min = { D -> A; E -> B; A,B,C -> D; A,B,C -> E }
+2PN: tak
+3PN: tak

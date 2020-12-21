@@ -1,0 +1,7 @@
+K, W, G, N, S, O
+K   -> W
+N,G -> K
+W,G -> N
+S,G -> N
+S,G -> K
+S,K -> O

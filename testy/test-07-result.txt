@@ -1,0 +1,9 @@
+Atrybuty kluczowe: pesel, pakiet
+Atrybuty niekluczowe: imie, nazwisko, cena, rodzaj
+F_min = { pakiet -> cena; pakiet -> rodzaj; pesel -> imie; pesel -> nazwisko }
+2PN: nie
+3PN: nie
+Synteza do 3PN:
+R0(cena, pakiet, rodzaj) : pakiet -> cena; pakiet -> rodzaj
+R1(imie, pesel, nazwisko) : pesel -> imie; pesel -> nazwisko
+R2(pesel, pakiet) : (brak)

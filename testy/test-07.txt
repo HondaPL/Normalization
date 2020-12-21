@@ -1,0 +1,3 @@
+pesel, pakiet, imię, nazwisko, cena, rodzaj
+pesel -> imię, nazwisko
+pakiet -> cena, rodzaj

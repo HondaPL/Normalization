@@ -1,0 +1,5 @@
+Atrybuty kluczowe: A
+Atrybuty niekluczowe: (brak)
+F_min = (brak)
+2PN: tak
+3PN: tak

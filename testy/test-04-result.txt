@@ -1,0 +1,9 @@
+Atrybuty kluczowe: A, B, D
+Atrybuty niekluczowe: C, E
+F_min = { B -> C; D -> A; E -> C; A,C -> D; A,C -> E }
+2PN: nie
+3PN: nie
+Synteza do 3PN:
+R0(B, C) : B -> C
+R3(A, C, D, E) : D -> A; E -> C; A,C -> D; A,C -> E
+R4(A, B) : (brak)

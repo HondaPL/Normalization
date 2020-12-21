@@ -1,0 +1,7 @@
+A, B, C, D, E, F, G, H, I, J, XD
+A   -> D,E
+B   -> F
+D   -> I,J
+C,G -> H
+B   -> XD,D
+XD  -> A,B
